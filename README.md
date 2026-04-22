@@ -6,8 +6,8 @@ Professional photo booth software for events, weddings, and activations. Built f
 
 | Platform | File |
 |---|---|
-| Windows | `FrayrBooth Setup x.x.x.exe` |
-| macOS | `FrayrBooth-x.x.x.dmg` |
+| Windows | `FrayrBooth Setup.exe` |
+| macOS | `FrayrBooth.dmg` |
 
 Go to the [Releases](../../releases) tab to download the latest version.
 
