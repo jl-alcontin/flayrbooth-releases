@@ -1,4 +1,4 @@
-# FrayrBooth
+# FlayrBooth
 
 Professional photo booth software for events, weddings, and activations. Built for kiosk and touchscreen use.
 
@@ -6,8 +6,8 @@ Professional photo booth software for events, weddings, and activations. Built f
 
 | Platform | File |
 |---|---|
-| Windows | `FrayrBooth Setup.exe` |
-| macOS | `FrayrBooth.dmg` |
+| Windows | `FlayrBooth Setup.exe` |
+| macOS | `FlayrBooth.dmg` |
 
 Go to the [Releases](../../releases) tab to download the latest version.
 
@@ -16,11 +16,11 @@ Go to the [Releases](../../releases) tab to download the latest version.
 **Windows**
 1. Download the `.exe` installer
 2. Run it — no admin required (per-user install)
-3. Launch FrayrBooth from the desktop shortcut
+3. Launch FlayrBooth from the desktop shortcut
 
 **macOS**
 1. Download the `.dmg`
-2. Open it and drag FrayrBooth to Applications
+2. Open it and drag FlayrBooth to Applications
 3. Launch from Applications
 
 ## Features
@@ -91,7 +91,7 @@ Go to the [Releases](../../releases) tab to download the latest version.
 
 ## License
 
-FrayrBooth is commercial software. A valid license is required after the 7-day trial period.
+FlayrBooth is commercial software. A valid license is required after the 7-day trial period.
 
 ---
 
